@@ -1,0 +1,27 @@
+[submodule "arduino-dsmr"]
+	path = arduino-dsmr
+	url = https://github.com/matthijskooijman/arduino-dsmr
+[submodule "Time"]
+	path = Time
+	url = https://github.com/PaulStoffregen/Time
+[submodule "WiFiManager"]
+	path = WiFiManager
+	url = https://github.com/tzapu/WiFiManager
+[submodule "TelnetStream"]
+	path = TelnetStream
+	url = https://github.com/jandrassy/TelnetStream
+[submodule "arduinoWebSockets"]
+	path = arduinoWebSockets
+	url = https://github.com/Links2004/arduinoWebSockets
+[submodule "SSD1306Ascii"]
+	path = SSD1306Ascii
+	url = https://github.com/greiman/SSD1306Ascii
+[submodule "pubsubclient"]
+	path = pubsubclient
+	url = https://github.com/knolleary/pubsubclient
+[submodule "ArduinoJson"]
+	path = ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "ModUpdateServer"]
+	path = ModUpdateServer
+	url = https://github.com/mrWheel/ModUpdateServer
